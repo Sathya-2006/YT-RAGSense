@@ -63,7 +63,8 @@ YT-RAGSense/
 ├── pyproject.toml
 └── README.md
 ```
-![rag-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector](https://github.com/user-attachments/assets/43c194d7-82d5-479f-a5c6-68775b533872)
+<img width="750" height="355" alt="medium_simple_rag_workflow_091648ef39" src="https://github.com/user-attachments/assets/2cb8e8c8-2dea-44fd-9c61-b07ab739912d" />
+
 
 
 ## 🛠️ Installation
