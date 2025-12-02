@@ -1,4 +1,8 @@
 # **YT-RAGSense**
+<p align="left">
+  <img src="![rag-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector](https://github.com/user-attachments/assets/1fd636b5-9768-4f42-9ba1-5a0e37b3b2a0)
+" width="180" style="border-radius: 10px;" />
+</p>
 
 A modular, blazing-fast Retrieval-Augmented Generation (RAG) system powered by:
 
@@ -59,6 +63,8 @@ YT-RAGSense/
 ├── pyproject.toml
 └── README.md
 ```
+![rag-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector](https://github.com/user-attachments/assets/43c194d7-82d5-479f-a5c6-68775b533872)
+
 
 ## 🛠️ Installation
 ### 1. Clone Repo
