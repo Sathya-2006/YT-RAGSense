@@ -17,7 +17,7 @@ This project allows you to index YouTube transcripts, documents, or custom datas
  - Modular design (clean src/ folder architecture)
 
 ## 🏗️ Project Structure
-YT-RAGSense/
+ YT-RAGSense/
 │
 ├── data/                 # Raw input data (transcripts, docs, etc.)
 ├── faiss_store/          # Vector index (FAISS)
@@ -35,4 +35,38 @@ YT-RAGSense/
 ├── requirements.txt      # Dependencies
 ├── pyproject.toml        # Poetry config (optional)
 └── README.md
+
+##  Installation
+## 1. Clone the repo
+git clone https://github.com/Sathya-2006/YT-RAGSense.git
+cd YT-RAGSense
+
+## 2. Create virtual environment
+uv venv
+.venv\Scripts\activate
+
+## 3.Install dependencies
+uv pip install -r requirements.txt
+
+## Environment Variables
+GROQ_API_KEY=your_api_key_here
+TYPESENSE_API_KEY=your_typesense_key
+TYPESENSE_HOST=ziktplh30uqsjbw6p-1.a1.typesense.net
+TYPESENSE_PORT=443
+TYPESENSE_PROTOCOL=https
+
+## Build Vector Store
+Run embedding + indexing:
+   python app.py
+
+## Run a Query
+python main.py
+
+Inside script:
+
+from src.rag_pipeline import ask_rag
+response = ask_rag("What is Generative AI?")
+print(response)
+
+
 
