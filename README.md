@@ -1,4 +1,4 @@
-                                                                                          # YT-RAGSense
+# YT-RAGSense
 A modular, blazing-fast Retrieval-Augmented Generation (RAG) system powered by:
 
 - Groq LLMs (Llama 3.x, Mixtral)
@@ -71,9 +71,8 @@ python main.py
 
 
 **Example usage:**
-
-from src.rag_pipeline import ask_rag
-print(ask_rag("What is Generative AI?"))
+```from src.rag_pipeline import ask_rag
+print(ask_rag("What is Generative AI?"))```
 
 ## Tech Stack
 - Python 3.10+
