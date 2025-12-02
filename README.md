@@ -35,9 +35,34 @@ Built for developers who want a clean, production-ready RAG pipeline for YouTube
 - Plug-and-play embedding + vector store pipeline
 - Includes notebook for debugging + experimentation
 
+## Project Structure
+```
+YT-RAGSense/
+│
+├── data/                 
+├── faiss_store/          
+├── notebook/             
+│   └── typesense.ipynb
+│
+├── src/
+│   ├── loaders/            # All data loaders
+│   ├── embedding/          # Embedding pipeline
+│   ├── vectorstore/        # Typesense + FAISS handlers
+│   ├── llm/                # Groq LLM wrapper
+│   └── rag_pipeline.py     # Main RAG logic
+│
+├── app.py                  # Build index
+├── main.py                 # Query tester
+├── books.jsonl
+├── requirements.txt
+├── pyproject.toml
+└── README.md
+```
+
 ## 🛠️ Installation
 ### 1. Clone Repo
-```git clone https://github.com/Sathya-2006/YT-RAGSense.git
+```
+git clone https://github.com/Sathya-2006/YT-RAGSense.git
 cd YT-RAGSense
 ```
 
@@ -45,7 +70,8 @@ cd YT-RAGSense
 **Create environment**
  ```  uv venv```
 **Activate**
-   **Windows:** ``` .venv\Scripts\activate ```
+   **Windows:** .venv\Scripts\activate
+  
 
 ### 3. Install dependencies
  ```  uv pip install -r requirements.txt ```
@@ -59,7 +85,8 @@ TYPESENSE_PORT=443
 TYPESENSE_PROTOCOL=https
 ```
 ### Build Vector Index
- ```python app.py
+ ```
+python app.py
 ```
 **This will:**
 ✔ Load data
@@ -68,12 +95,14 @@ TYPESENSE_PROTOCOL=https
 ✔ Store vectors in Typesense / FAISS
 
 ### Run Query
-```python main.py
+```
+python main.py
 ```
 
 
 **Example usage:**
-```from src.rag_pipeline import ask_rag
+```
+from src.rag_pipeline import ask_rag
 print(ask_rag("What is Generative AI?"))
 ```
 # Tech Stack
