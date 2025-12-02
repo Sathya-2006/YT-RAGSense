@@ -37,44 +37,46 @@ Built for developers who want a clean, production-ready RAG pipeline for YouTube
 
 ## 🛠️ Installation
 ### 1. Clone Repo
-git clone https://github.com/Sathya-2006/YT-RAGSense.git
+```git clone https://github.com/Sathya-2006/YT-RAGSense.git
 cd YT-RAGSense
+```
 
 ### 2. Create Environment (Using UV — Recommended)
 **Create environment**
-   uv venv
+ ```  uv venv```
 **Activate**
-   **Windows**:.venv\Scripts\activate
+   **Windows:** ``` .venv\Scripts\activate ```
 
 ### 3. Install dependencies
-   uv pip install -r requirements.txt
+ ```  uv pip install -r requirements.txt ```
 
 ### 4. Environment Variables
 **Create a .env file:**
-GROQ_API_KEY=your_api_key
+```GROQ_API_KEY=your_api_key
 TYPESENSE_API_KEY=your_typesense_key
 TYPESENSE_HOST=ziktplh30uqsjbw6p-1.a1.typesense.net
 TYPESENSE_PORT=443
 TYPESENSE_PROTOCOL=https
-
+```
 ### Build Vector Index
- python app.py
-
-This will:
+ ```python app.py
+```
+**This will:**
 ✔ Load data
 ✔ Split text
 ✔ Generate embeddings
 ✔ Store vectors in Typesense / FAISS
 
 ### Run Query
-python main.py
+```python main.py
+```
 
 
 **Example usage:**
 ```from src.rag_pipeline import ask_rag
-print(ask_rag("What is Generative AI?"))```
-
-## Tech Stack
+print(ask_rag("What is Generative AI?"))
+```
+# Tech Stack
 - Python 3.10+
 - Typesense / FAISS
 - Groq API (Llama 3.x, Mixtral)
