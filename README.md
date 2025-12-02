@@ -17,7 +17,7 @@ This project allows you to index YouTube transcripts, documents, or custom datas
  - Modular design (clean src/ folder architecture)
 
 ## 🏗️ Project Structure
-#YT-RAGSense/
+YT-RAGSense/
 │
 ├── data/                 # Raw input data (transcripts, docs, etc.)
 ├── faiss_store/          # Vector index (FAISS)
@@ -35,3 +35,4 @@ This project allows you to index YouTube transcripts, documents, or custom datas
 ├── requirements.txt      # Dependencies
 ├── pyproject.toml        # Poetry config (optional)
 └── README.md
+
