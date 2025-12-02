@@ -1,4 +1,5 @@
-<img width="142" height="149" alt="image" src="https://github.com/user-attachments/assets/122221e5-05a7-490e-bcf9-6214adfcb35e" /> # YT-RAGSense
+<img width="142" height="149" alt="image" src="https://github.com/user-attachments/assets/122221e5-05a7-490e-bcf9-6214adfcb35e" /> **YT-RAGSense**
+
 A modular, blazing-fast Retrieval-Augmented Generation (RAG) system powered by:
 
 - Groq LLMs (Llama 3.x, Mixtral)
