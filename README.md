@@ -1,8 +1,4 @@
 # **YT-RAGSense**
-<p align="right">
-  <img src="![rag-logo](https://github.com/user-attachments/assets/4e1201de-1838-40e7-b926-7b035ef72472)
-" width="180" style="border-radius: 10px;" />
-</p>
 
 A modular, blazing-fast Retrieval-Augmented Generation (RAG) system powered by:
 
