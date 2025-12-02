@@ -1,0 +1,217 @@
+1. Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the branch of computer science that aims to create machines capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, language understanding, and decision-making. AI systems can analyze data, detect patterns, and adapt to new situations with minimal human intervention.
+
+AI combines techniques from computer science, mathematics, psychology, linguistics, and engineering to build intelligent systems. Today, AI is applied in various fields such as healthcare, education, finance, robotics, transportation, gaming, and customer support.
+
+2. Key Goals of AI
+
+To create systems that think like humans
+(e.g., reasoning, decision-making)
+
+To create systems that act like humans
+(e.g., robotics, human-like behaviour)
+
+To build systems that think rationally
+(logical problem solving)
+
+To build systems that act rationally
+(intelligent agents making optimal decisions)
+
+3. Characteristics of an Intelligent System
+
+Learning – ability to improve from past experience
+
+Reasoning – drawing logical conclusions
+
+Problem-solving – selecting the best solution
+
+Perception – understanding the environment (vision, sound, sensors)
+
+Language understanding – ability to interpret human language
+
+Autonomy – working with minimum human support
+
+4. Types of Artificial Intelligence
+A. Based on Capability
+
+Narrow AI (Weak AI)
+
+Performs one specific task
+
+Examples: Siri, Google Assistant, recommendation systems
+
+General AI (Strong AI)
+
+Human-level intelligence
+
+Can perform any intellectual task
+
+Still theoretical; not yet developed fully
+
+Super AI
+
+More intelligent than humans
+
+Can make decisions better than humans
+
+Only a future concept
+
+B. Based on Functionality
+
+Reactive Machines
+
+No memory, act only based on present input
+
+Example: IBM Deep Blue chess computer
+
+Limited Memory AI
+
+Can store past data temporarily
+
+Used in self-driving cars
+
+Theory of Mind AI
+
+Can understand emotions, beliefs
+
+Still under research
+
+Self-Aware AI
+
+Has its own consciousness
+
+Only theoretical
+
+5. Major Areas of AI
+1. Machine Learning (ML)
+
+ML enables systems to learn from data without explicit programming.
+Types:
+
+Supervised learning
+
+Unsupervised learning
+
+Reinforcement learning
+
+2. Deep Learning
+
+Advanced ML using neural networks with multiple layers.
+Used in image recognition, speech recognition, etc.
+
+3. Natural Language Processing (NLP)
+
+Enables machines to understand human language.
+Examples: ChatGPT, translation, chatbots.
+
+4. Computer Vision
+
+Allows machines to interpret and understand visual information.
+Examples: Face detection, object recognition.
+
+5. Robotics
+
+AI used to control robots for automation, manufacturing, healthcare, etc.
+
+6. Expert Systems
+
+Software mimicking human experts in decision-making.
+Examples: medical diagnosis systems.
+
+6. Applications of AI
+1. Healthcare
+
+Disease diagnosis
+
+Robot-assisted surgery
+
+Drug discovery
+
+Medical imaging analysis
+
+2. Education
+
+Personalized learning
+
+AI tutors
+
+Automatic grading
+
+3. Finance
+
+Fraud detection
+
+Stock market prediction
+
+Automated trading
+
+4. Transportation
+
+Self-driving cars
+
+Traffic management
+
+Route optimization
+
+5. Business
+
+Chatbots
+
+Recommendation systems
+
+Demand forecasting
+
+6. Agriculture
+
+Crop monitoring
+
+Soil analysis
+
+Smart irrigation
+
+7. Advantages of AI
+
+Reduces human effort
+
+Works 24/7
+
+High accuracy and speed
+
+Handles large datasets
+
+Helps in automation
+
+Reduces human error
+
+8. Challenges / Disadvantages of AI
+
+High development cost
+
+Requires large amounts of data
+
+Potential job loss due to automation
+
+Lack of creativity
+
+Ethical and privacy issues
+
+Dependence on machines
+
+9. Future of AI
+
+AI is expected to grow in areas such as:
+
+Autonomous systems (cars, drones)
+
+Advanced robotics
+
+Personalized medicine
+
+Smart cities
+
+Conversational AI
+
+AI governance and ethical frameworks
+
+Future AI aims to improve decision-making, productivity, and global development while ensuring safety, transparency, and human control.
