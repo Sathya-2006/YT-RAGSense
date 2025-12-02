@@ -1,7 +1,6 @@
 # **YT-RAGSense**
 <p align="left">
-  <img src="![rag-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector](https://github.com/user-attachments/assets/1fd636b5-9768-4f42-9ba1-5a0e37b3b2a0)
-" width="180" style="border-radius: 10px;" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F20448067-rag-letter-logo-design-in-illustration-vector-logo-calligraphy-designs-for-logo-poster-invitation-etc&psig=AOvVaw13DsiDOJn6xliajm666H5j&ust=1764758386511000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD5-rfbnpEDFQAAAAAdAAAAABAE" width="180" style="border-radius: 10px;" />
 </p>
 
 A modular, blazing-fast Retrieval-Augmented Generation (RAG) system powered by:
